@@ -1,0 +1,25 @@
+{
+  "name": "first-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "first-cli": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "4",
+    "commander": "^11.0.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.9",
+    "fs": "^0.0.1-security",
+    "inquirer": "8",
+    "ora": "4",
+    "path": "^0.12.7"
+  }
+}

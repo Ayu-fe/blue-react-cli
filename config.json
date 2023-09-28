@@ -1,0 +1,12 @@
+{
+  "templates": [
+    {
+      "name": "note笔记",
+      "repo": "https://github.com/Ayu-fe/notes.git"
+    },
+    {
+      "name": "css照片墙",
+      "repo": "https://github.com/Ayu-fe/css3PhotoShow.git"
+    }
+  ]
+}
